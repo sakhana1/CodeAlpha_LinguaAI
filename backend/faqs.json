@@ -1,0 +1,114 @@
+[
+  {
+    "category": "Getting started",
+    "question": "How do I create an account?",
+    "answer": "Select **Create account** on the sign-in page, enter your name and email address, create a secure password, and verify your email if prompted.",
+    "keywords": [
+      "sign up",
+      "register",
+      "new user",
+      "join"
+    ]
+  },
+  {
+    "category": "Getting started",
+    "question": "I forgot my password. How can I reset it?",
+    "answer": "Choose **Forgot password** on the sign-in screen. Enter the email linked to your account and follow the password-reset instructions sent to your inbox.",
+    "keywords": [
+      "reset password",
+      "can't login",
+      "forgot login",
+      "recover account"
+    ]
+  },
+  {
+    "category": "Getting started",
+    "question": "Can I use the service on my phone?",
+    "answer": "Yes. The website is responsive and can be opened in a modern mobile browser. Add it to your home screen for quicker access.",
+    "keywords": [
+      "mobile",
+      "phone",
+      "android",
+      "iphone",
+      "responsive"
+    ]
+  },
+  {
+    "category": "Pricing & billing",
+    "question": "Is there a free plan?",
+    "answer": "Yes. You can start with the free plan to explore the core features. Paid plans may provide higher usage limits and additional capabilities.",
+    "keywords": [
+      "free",
+      "cost",
+      "trial",
+      "pricing"
+    ]
+  },
+  {
+    "category": "Pricing & billing",
+    "question": "Which payment methods are accepted?",
+    "answer": "The demo knowledge base does not process payments. In a production product, list the supported cards, wallets, and regional payment methods on the billing page.",
+    "keywords": [
+      "payment",
+      "card",
+      "upi",
+      "billing",
+      "pay"
+    ]
+  },
+  {
+    "category": "Features",
+    "question": "Can I export or download my work?",
+    "answer": "Use the Export or Download option where available. If an export option is not visible, copy the content or contact support for assistance.",
+    "keywords": [
+      "download",
+      "export",
+      "save file",
+      "share"
+    ]
+  },
+  {
+    "category": "Features",
+    "question": "Does the platform support multiple languages?",
+    "answer": "The platform interface in this demo is in English. The LinguaAI companion can translate text between supported languages.",
+    "keywords": [
+      "language",
+      "translate",
+      "multilingual"
+    ]
+  },
+  {
+    "category": "Support",
+    "question": "How can I contact customer support?",
+    "answer": "Use the Help or Contact section of the product and include a short description of the issue. For this demo, support contact details should be configured by the project owner.",
+    "keywords": [
+      "help",
+      "contact",
+      "email support",
+      "issue",
+      "problem"
+    ]
+  },
+  {
+    "category": "Support",
+    "question": "What should I do if the website is not loading?",
+    "answer": "Refresh the page, check your internet connection, and try a current version of Chrome, Edge, Firefox, or Safari. If the issue continues, contact support with the error message.",
+    "keywords": [
+      "not working",
+      "down",
+      "loading error",
+      "website problem"
+    ]
+  },
+  {
+    "category": "Account",
+    "question": "How do I change my profile details?",
+    "answer": "Open your profile or account settings, update the details you want to change, and save your changes. Some sensitive changes may require email verification.",
+    "keywords": [
+      "edit profile",
+      "change name",
+      "update email",
+      "settings"
+    ]
+  }
+]
